@@ -1,0 +1,8 @@
+
+
+#EXTM3U
+#EXTINF:-1
+https://static.filmskino.site/hls/trailers/eL1DTWYuxlY.mp4/index.m3u8
+#EXTINF:-2
+https://static.filmskino.site/hls/trailers/GPjPtBKjTeA.mp4/index.m3u8
+
